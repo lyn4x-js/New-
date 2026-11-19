@@ -1,0 +1,13 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Textures",
+      "replace_ids": [
+        7658055825
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/SonicJimYT/Soinc/blob/main/Textures.png?raw=true"
+    }
+  ]
+}
